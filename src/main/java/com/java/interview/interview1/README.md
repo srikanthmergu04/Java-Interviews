@@ -102,3 +102,18 @@ Explain strategies and best practices for inserting large volumes of data into a
 
 ## 20. Supporting Localization and Internationalization
 Discuss how you have implemented localization (L10n) and internationalization (i18n) in applications. Mention tools, frameworks, and best practices used.
+
+---
+
+# Round 3
+
+## 1. Project experience
+## 2. how do you work from gathering requirements to building product
+## 3. coming up with database model
+## 4. how do display large dataset in UI
+## 5. any questions regarding company
+## 6. Cloud Experiences
+## 7. Introduction about role and team
+## 8. Modern Tech stack
+
+
